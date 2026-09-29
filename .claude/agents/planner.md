@@ -1,7 +1,7 @@
 ---
 name: planner
 description: Turns a task into a clear plan and checklist by breaking the work into steps. Use when a task needs to be planned before any work starts. Does not write code or make final decisions.
-model: sonnet
+model: claude-opus-5-5
 effort: medium
 tools: Read, Grep, Glob
 ---

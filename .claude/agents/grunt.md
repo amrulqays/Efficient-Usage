@@ -1,7 +1,7 @@
 ---
 name: grunt
 description: Handles boring, well-scoped work only: scoping files, cleanup, and lookups. Use for small mechanical tasks with clear instructions. Does not make architecture or design decisions.
-model: haiku
+model: claude-sonnet-5-5
 effort: low
 tools: Read, Grep, Glob, Edit, Write, Bash
 ---
